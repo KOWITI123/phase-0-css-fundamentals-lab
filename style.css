@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+ img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+nav {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: red;
+}
+figcaption {
+  font-size: small;
+  text-align: center;
+}
+ section > p {
+  min-width: 800px;
+  text-align: center;
+  line-height: 2;
+ }
+ section > div {
+  float: left;
+  margin: 5rem 
+ }
